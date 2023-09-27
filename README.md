@@ -1,4 +1,4 @@
 # apnacolle-demo
-This is my first git repo
-<br>
+This is my first git repo.
+<br> 
 Author swarnadip Bhowmik
